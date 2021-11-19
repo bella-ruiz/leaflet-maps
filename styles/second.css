@@ -1,0 +1,30 @@
+#mapContainer2 {
+box-sizing: border-box;
+margin: auto;
+max-width: 900px;
+}
+
+#map2 {
+width: 100%;
+height: 400px;
+margin: auto;
+border: 1px solid #000000;
+}
+
+h1 {
+text-align: center;
+font-family: 'Barlow', "Arial", sans-serif;
+}
+
+p {
+text-align: center;
+margin: auto;
+max-width: 450px;
+}
+
+body {
+  font-family: "Playfair Display", "Times", serif;
+  color: #333;
+  background: #ead3d7;
+
+}
